@@ -41,3 +41,41 @@ The system follows a **three-tier architecture**:
 ---
 
 ## 📂 Project Structure
+
+---
+
+## 📊 Dataset
+- Student mental health dataset
+- Contains academic, lifestyle, and psychological attributes
+- Sensitive information handled ethically
+
+(See `dataset/README.md`)
+
+---
+
+## 🧪 Machine Learning
+- Feature encoding & scaling
+- Trained classification model
+- Probability-based prediction
+- Risk categorization logic
+
+---
+
+## 🖼️ Output Screenshots
+Screenshots of final output pages submitted during college evaluation are included
+for academic reference.
+
+(See `screenshots/` folder)
+
+---
+
+## ⚠️ Disclaimer
+This project was created **for academic purposes only**.
+It is not intended to replace professional mental health diagnosis.
+
+---
+
+## 🚀 Future Improvements
+- Deploy model using cloud services
+- Improve accuracy with advanced models
+- Add authentication & security
